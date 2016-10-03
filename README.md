@@ -1,3 +1,1 @@
-   -----------------------------------------------------------------
-
-My first Ruby on Rails program 
+Ruby on Rails program on a social web app.
